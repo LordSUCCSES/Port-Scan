@@ -4,7 +4,7 @@
 Kurulum;
 
 git clone https://github.com/LordSUCCSES/Port-Scan.git<br><br>
-cd Port-Scan[/ICODE]<br><br>
+cd Port-Scan<br><br>
 python main.py<br><br>
 --------------------------------------------------------
 --------------------------------------------------------
