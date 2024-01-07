@@ -31,7 +31,7 @@ def soruu():
         soruu()
 
 def scan():
-    system('cls')
+    system('clear')
     print(banner)
     global bulunan
     ip = input("IP Girin: ")
