@@ -36,7 +36,7 @@ def scan():
     global bulunan
     ip = input("IP Girin: ")
     soruu()
-    for port in range(1000):
+    for port in range(65535):
         try:
             addr = (ip, port)
             server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
